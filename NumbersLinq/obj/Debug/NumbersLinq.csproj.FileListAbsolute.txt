@@ -1,0 +1,7 @@
+C:\Systems\Katas\C#\LiNQ\NumbersLinq\NumbersLinq\bin\Debug\NumbersLinq.exe.config
+C:\Systems\Katas\C#\LiNQ\NumbersLinq\NumbersLinq\bin\Debug\NumbersLinq.exe
+C:\Systems\Katas\C#\LiNQ\NumbersLinq\NumbersLinq\bin\Debug\NumbersLinq.pdb
+C:\Systems\Katas\C#\LiNQ\NumbersLinq\NumbersLinq\obj\Debug\NumbersLinq.csprojResolveAssemblyReference.cache
+C:\Systems\Katas\C#\LiNQ\NumbersLinq\NumbersLinq\obj\Debug\NumbersLinq.csproj.CoreCompileInputs.cache
+C:\Systems\Katas\C#\LiNQ\NumbersLinq\NumbersLinq\obj\Debug\NumbersLinq.exe
+C:\Systems\Katas\C#\LiNQ\NumbersLinq\NumbersLinq\obj\Debug\NumbersLinq.pdb
